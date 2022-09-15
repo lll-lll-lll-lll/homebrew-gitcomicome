@@ -4,7 +4,7 @@
 class Gitcomicome < Formula
   desc "explore git commit comment"
   homepage ""
-  url "https://github.com/lll-lll-lll-lll/gitcomicome/archive/refs/tags/v0.1.0.tar.gz"
+  url "https://github.com/lll-lll-lll-lll/gitcomicome/archive/refs/tags/@v0.1.1.tar.gz"
   sha256 "d0bce699e45976a81c6103c5bb2ff4a60d3466942c51b9392c43791290ed7cdb"
   license ""
 
